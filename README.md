@@ -36,3 +36,7 @@ Uygulamayı başlatmak için bir Android veya iOS cihaz üzerinde çalıştırı
 
 ## Ekran Görüntüleri
 
+![Chat 1](https://github.com/beklevicRidvan/ChatApp-ByProvider/blob/main/chatapp_images/chat1.png?raw=true) ![Chat 2](https://github.com/beklevicRidvan/ChatApp-ByProvider/blob/main/chatapp_images/chat2.png?raw=true) ![Chat 3](https://github.com/beklevicRidvan/ChatApp-ByProvider/blob/main/chatapp_images/chat3.png?raw=true)
+![Chat 4](https://github.com/beklevicRidvan/ChatApp-ByProvider/blob/main/chatapp_images/chat4.png?raw=true) ![Chat 5](https://github.com/beklevicRidvan/ChatApp-ByProvider/blob/main/chatapp_images/chat5.png?raw=true) ![Chat 6](https://github.com/beklevicRidvan/ChatApp-ByProvider/blob/main/chatapp_images/chat6.png?raw=true)
+
+
